@@ -65,7 +65,7 @@ setup(
     description="A Python SDK for Vehicle app",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/eclipse-velocitas/vehicle-app-python-sdk",
+    url="https://github.com/USER/vehicle-app-python-sdk",
     packages=[
         "velocitas_sdk",
         "velocitas_sdk.util",

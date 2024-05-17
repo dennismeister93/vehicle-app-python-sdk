@@ -1,6 +1,6 @@
 # Vehicle App Python Sdk
 
-[![CI workflow](https://github.com/eclipse-velocitas/vehicle-app-python-sdk/actions/workflows/ci.yaml/badge.svg)](https://github.com/eclipse-velocitas/vehicle-app-python-sdk/actions/workflows/ci.yaml)
+[![CI workflow](https://github.com/USER/vehicle-app-python-sdk/actions/workflows/ci.yaml/badge.svg)](https://github.com/USER/vehicle-app-python-sdk/actions/workflows/ci.yaml)
 [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](http://www.apache.org/licenses/LICENSE-2.0)
 
 The `Vehicle App SDK` reduces the effort required to implement Vehicle Apps by using the Velocitas development model for the Python programming language. To create a Vehicle App, please use our [Vehicle App Template](https://github.com/eclipse-velocitas/vehicle-app-python-template) which uses this sdk.
@@ -29,7 +29,7 @@ This includes the following packages:
 Install the Vehicle App Python SDK with pip:
 
 ```bash
-pip install git+https://github.com/eclipse-velocitas/vehicle-app-python-sdk.git@<version>
+pip install git+https://github.com/USER/vehicle-app-python-sdk.git@<version>
 ```
 
 ## Documentation
@@ -60,6 +60,6 @@ cd examples
 By default the examples are started using the native middleware. Dapr middleware support was recently removed.
 
 ## Contribution
-- [GitHub Issues](https://github.com/eclipse-velocitas/vehicle-app-python-sdk/issues)
+- [GitHub Issues](https://github.com/USER/vehicle-app-python-sdk/issues)
 - [Mailing List](https://accounts.eclipse.org/mailing-list/velocitas-dev)
 - [Contribution](./CONTRIBUTING.md/)
